@@ -12,10 +12,10 @@ Professionnel disposant d'une expérience en gestion de stocks, gestion de donn�
 
 ## Expériences professionnelles
 
-- **Newrest Angola (2010–2012) — Gestionnaire de stock :** réception et contrôle des marchandises, inventaires, suivi des stocks et réapprovisionnement avec SAP.
-- **Prometeus, mission pour TotalEnergies Angola (2012–2014) — Opérateur Call Center :** enregistrement des anomalies dans Kimoce, création et suivi des ordres de travail, reporting hebdomadaire.
-- **Simples Oil & Gas Angola (2014–2017) — Gestionnaire de données :** gestion de données et administration fonctionnelle de la GMAO avec Kimoce et Key Pro III.
-- **SPIE Oil & Gas Angola (2018–2022) — Gestionnaire de données :** administration de données et de Key Pro III / VigiClé.
+- **Newrest Angola (2013–2015) — Gestionnaire de stock :** réception et contrôle des marchandises, inventaires, suivi des stocks et réapprovisionnement avec SAP.
+- **Prometeus, mission pour TotalEnergies Angola (2015–2016) — Opérateur Call Center :** enregistrement des anomalies dans Kimoce, création et suivi des ordres de travail, reporting hebdomadaire.
+- **Simples Oil & Gas Angola (2016–2019) — Gestionnaire de données :** gestion de données et administration fonctionnelle de la GMAO avec Kimoce et Key Pro III.
+- **SPIE Oil & Gas Angola (2019–2022) — Gestionnaire de données :** administration de données et de Key Pro III / VigiClé.
 - **Emmaüs Connect, Grenoble (2023–2026) — Bénévole :** accompagnement des bénéficiaires dans l'utilisation des outils numériques.
 
 ## Outils et compétences
