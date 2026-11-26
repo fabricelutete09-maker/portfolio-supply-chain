@@ -47,8 +47,8 @@ Le document PDF sera déposé dans le dossier docs dès que le fichier sera tél
 ## Contact
 
 - Localisation : Grenoble, France
-- LinkedIn : à compléter
-- E-mail professionnel : à compléter
+- LinkedIn : https://www.linkedin.com/in/fabrice-lutete-a06930361/
+- E-mail professionnel : fabricelutete09@gmail.com
 
 ---
 *Portfolio évolutif — mis à jour au fil de la réalisation des projets.*
